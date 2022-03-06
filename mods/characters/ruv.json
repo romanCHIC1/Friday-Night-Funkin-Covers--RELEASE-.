@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				90
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "RuvDown"
+		},
+		{
+			"offsets": [
+				20,
+				90
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "RuvDown"
+		},
+		{
+			"offsets": [
+				0,
+				90
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "idle",
+			"loop": false,
+			"name": "RuvIdle"
+		},
+		{
+			"offsets": [
+				0,
+				90
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "RuvIdle"
+		},
+		{
+			"offsets": [
+				60,
+				37
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RuvLeft"
+		},
+		{
+			"offsets": [
+				60,
+				40
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "RuvLeft"
+		},
+		{
+			"offsets": [
+				-20,
+				86
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RuvRight"
+		},
+		{
+			"offsets": [
+				-20,
+				90
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "RuvRight"
+		},
+		{
+			"offsets": [
+				-6,
+				91
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singUP",
+			"loop": false,
+			"name": "RuvUp"
+		},
+		{
+			"offsets": [
+				-10,
+				90
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "RuvUp"
+		},
+		{
+			"offsets": [
+				-11,
+				90
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "hey",
+			"loop": false,
+			"name": "RuvHey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ruv",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "ruv",
+	"flip_x": false,
+	"healthbar_colors": [
+		145,
+		145,
+		145
+	],
+	"camera_position": [
+		-180,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "my covers 5",
+	"difficulties": "easy, normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"ectospasm",
+			"shaggy",
+			[
+				0,
+				53,
+				13
+			]
+		],
+		[
+			"too slow",
+			"chara2",
+			[
+				146,
+				0,
+				15
+			]
+		],
+		[
+			"termination",
+			"tricky4",
+			[
+				226,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "week5"
+}

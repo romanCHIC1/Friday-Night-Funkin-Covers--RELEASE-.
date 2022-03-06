@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "hey",
+			"fps": 71,
+			"name": "math",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				-110
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "takidown"
+		},
+		{
+			"offsets": [
+				20,
+				-110
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "takidown"
+		},
+		{
+			"offsets": [
+				-20,
+				50
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": false,
+			"name": "takiidle"
+		},
+		{
+			"offsets": [
+				0,
+				50
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "takiidle"
+		},
+		{
+			"offsets": [
+				30,
+				50
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "takileft"
+		},
+		{
+			"offsets": [
+				30,
+				50
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "takileft"
+		},
+		{
+			"offsets": [
+				-30,
+				50
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "takiright"
+		},
+		{
+			"offsets": [
+				-30,
+				50
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "takiright"
+		},
+		{
+			"offsets": [
+				-20,
+				50
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singUP",
+			"loop": false,
+			"name": "takiup"
+		},
+		{
+			"offsets": [
+				-20,
+				50
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "takiup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/taki",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "taki",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		120
+	],
+	"camera_position": [
+		-210,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

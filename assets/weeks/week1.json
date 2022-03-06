@@ -1,0 +1,49 @@
+{
+	"storyName": "my covers",
+	"difficulties": "easy, normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ugh",
+			"spirit-pixel",
+			[
+				180,
+				0,
+				40
+			]
+		],
+		[
+			"roses",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ron",
+			"og",
+			[
+				0,
+				0,
+				33
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week1"
+}

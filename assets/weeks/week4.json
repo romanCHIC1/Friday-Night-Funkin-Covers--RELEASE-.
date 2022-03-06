@@ -1,0 +1,49 @@
+{
+	"storyName": "my covers 4",
+	"difficulties": "easy, normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ballistic",
+			"hex2",
+			[
+				255,
+				80,
+				73
+			]
+		],
+		[
+			"dad battle",
+			"taki",
+			[
+				195,
+				0,
+				120
+			]
+		],
+		[
+			"milk",
+			"bf_fever",
+			[
+				146,
+				0,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week4"
+}

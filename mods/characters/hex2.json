@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-60
+			],
+			"anim": "hey",
+			"fps": 10,
+			"name": "SONIClaugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 7,
+			"name": "Hex crazy down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				48,
+				-50
+			],
+			"anim": "singDOWN-loop",
+			"fps": 7,
+			"name": "Hex crazy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 27,
+			"name": "Hex crazy idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 27,
+			"name": "Hex crazy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				67
+			],
+			"anim": "singLEFT",
+			"fps": 7,
+			"name": "Hex crazy left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				60
+			],
+			"anim": "singLEFT-loop",
+			"fps": 7,
+			"name": "Hex crazy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 7,
+			"name": "Hex crazy right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				66,
+				-10
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 7,
+			"name": "Hex crazy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				101
+			],
+			"anim": "singUP",
+			"fps": 7,
+			"name": "Hex crazy up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				19,
+				110
+			],
+			"anim": "singUP-loop",
+			"fps": 7,
+			"name": "Hex crazy up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hex2",
+	"position": [
+		20,
+		100
+	],
+	"healthicon": "hex2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

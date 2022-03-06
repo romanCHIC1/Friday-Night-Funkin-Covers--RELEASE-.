@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "extrickystage",
+		"player1": "bf",
+		"player2": "tricky",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"HealthDrain",
+						"1.00",
+						"0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "talentless-fox"
+	}
+}

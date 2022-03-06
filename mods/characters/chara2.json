@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				-290
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chara down"
+		},
+		{
+			"offsets": [
+				50,
+				-290
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "chara down"
+		},
+		{
+			"offsets": [
+				70,
+				-280
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chara left"
+		},
+		{
+			"offsets": [
+				70,
+				-280
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "chara left"
+		},
+		{
+			"offsets": [
+				30,
+				-280
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chara right"
+		},
+		{
+			"offsets": [
+				30,
+				-280
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "chara right"
+		},
+		{
+			"offsets": [
+				50,
+				-280
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chara up"
+		},
+		{
+			"offsets": [
+				50,
+				-280
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "chara up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-280
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "chara zave",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				-280
+			],
+			"anim": "idle-loop",
+			"fps": 13,
+			"name": "chara zave",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-280
+			],
+			"anim": "hey",
+			"fps": 71,
+			"name": "chara zrick",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chara2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "chara2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		40,
+		40
+	],
+	"camera_position": [
+		-190,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-110
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "hey",
+			"indices": [],
+			"name": "SONIClaugh"
+		},
+		{
+			"offsets": [
+				2,
+				-250
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SONICFUNDOWN"
+		},
+		{
+			"offsets": [
+				-2,
+				-256
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "SONICFUNDOWN"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONICFUNIDLE"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "SONICFUNIDLE"
+		},
+		{
+			"offsets": [
+				390,
+				-233
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SONICFUNLEFT"
+		},
+		{
+			"offsets": [
+				390,
+				-240
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "SONICFUNLEFT"
+		},
+		{
+			"offsets": [
+				-200,
+				-134
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONICFUNRIGHT"
+		},
+		{
+			"offsets": [
+				-184,
+				-140
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "SONICFUNRIGHT"
+		},
+		{
+			"offsets": [
+				-56,
+				-59
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SONICFUNUP"
+		},
+		{
+			"offsets": [
+				-61,
+				-50
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "SONICFUNUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic2",
+	"position": [
+		-60,
+		-70
+	],
+	"healthicon": "sonic2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		215
+	],
+	"camera_position": [
+		-110,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

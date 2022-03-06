@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "funstage",
+		"player1": "bf",
+		"player2": "sonic2",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"HealthDrain",
+						"1.00",
+						"0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 141,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Gospel"
+	}
+}

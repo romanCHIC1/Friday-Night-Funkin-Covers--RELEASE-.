@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "sonic3stage",
+		"player1": "bf-zar",
+		"player2": "sonic3",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"HealthDrain",
+						"1.00",
+						"0.01"
+					]
+				]
+			],
+			[
+				154119.170984456,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic1"
+					],
+					[
+						"HealthDrain",
+						"1.00",
+						"0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 193,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bushwhack"
+	}
+}

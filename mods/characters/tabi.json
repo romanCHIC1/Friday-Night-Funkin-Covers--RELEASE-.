@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				20,
+				-60
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				20,
+				-60
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-10,
+				40
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "idle",
+			"loop": false,
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-10,
+				40
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				121,
+				20
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				121,
+				20
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				50,
+				57
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				50,
+				57
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				44,
+				110
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [
+				44,
+				110
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Dad Sing Note UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TABI",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tabi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		187,
+		129
+	],
+	"camera_position": [
+		-230,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

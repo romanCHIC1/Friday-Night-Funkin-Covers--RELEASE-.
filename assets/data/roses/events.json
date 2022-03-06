@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.5,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"HealthDrain",
+						"1.00",
+						"0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Roses"
+	}
+}

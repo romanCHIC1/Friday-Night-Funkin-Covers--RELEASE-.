@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "schoolEvil",
+		"player1": "bf-pixel",
+		"player2": "spirit",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"HealthDrain",
+						"1.00",
+						"0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ugh"
+	}
+}

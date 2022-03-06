@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "chara2",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"HealthDrain",
+						"1.00",
+						"0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "too-slow"
+	}
+}

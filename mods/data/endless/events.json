@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "tabistage",
+		"player1": "bf",
+		"player2": "tabi",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"HealthDrain",
+						"1.00",
+						"0.01"
+					]
+				]
+			],
+			[
+				85935.4838709678,
+				[
+					[
+						"Hey!",
+						"something else",
+						"0.6s"
+					]
+				]
+			],
+			[
+				86322.5806451614,
+				[
+					[
+						"Hey!",
+						"something else",
+						"0.6s"
+					]
+				]
+			],
+			[
+				86612.9032258066,
+				[
+					[
+						"Hey!",
+						"something else",
+						"0.6s"
+					]
+				]
+			],
+			[
+				87000.0000000001,
+				[
+					[
+						"Hey!",
+						"something else",
+						"0.6s"
+					]
+				]
+			],
+			[
+				87096.7741935485,
+				[
+					[
+						"HealthDrain",
+						"1.00",
+						"0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 155,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Endless"
+	}
+}

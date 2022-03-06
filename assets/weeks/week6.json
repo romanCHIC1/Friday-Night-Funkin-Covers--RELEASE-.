@@ -1,0 +1,49 @@
+{
+	"storyName": "my covers 6",
+	"difficulties": "easy, normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"talentless fox",
+			"tricky",
+			[
+				0,
+				113,
+				53
+			]
+		],
+		[
+			"bushwhack",
+			"sonic3",
+			[
+				126,
+				133,
+				173
+			]
+		],
+		[
+			"attack",
+			"matt2",
+			[
+				126,
+				73,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week6"
+}

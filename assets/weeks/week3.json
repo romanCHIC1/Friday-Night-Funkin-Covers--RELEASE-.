@@ -1,0 +1,49 @@
+{
+	"storyName": "my covers 3",
+	"difficulties": "easy, normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"endless",
+			"tabi",
+			[
+				140,
+				53,
+				13
+			]
+		],
+		[
+			"casanova",
+			"ron",
+			[
+				255,
+				173,
+				0
+			]
+		],
+		[
+			"bopeebo rumble",
+			"ruv",
+			[
+				126,
+				133,
+				135
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week3"
+}

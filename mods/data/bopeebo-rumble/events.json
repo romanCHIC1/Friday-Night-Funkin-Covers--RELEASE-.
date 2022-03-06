@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": "ruvstage",
+		"player1": "bf",
+		"player2": "ruv",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"HealthDrain",
+						"1.00",
+						"0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 125,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bopeebo Rumble"
+	}
+}

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				130
+			],
+			"anim": "hey",
+			"fps": 8,
+			"name": "Hank",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 34,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-131,
+				-360
+			],
+			"anim": "singDOWN-loop",
+			"fps": 7,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				379,
+				130
+			],
+			"anim": "singLEFT",
+			"fps": 7,
+			"name": "Sing Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				361,
+				160
+			],
+			"anim": "singLEFT-loop",
+			"fps": 7,
+			"name": "Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-159,
+				-340
+			],
+			"anim": "singDOWN",
+			"fps": 7,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-310,
+				67
+			],
+			"anim": "singRIGHT",
+			"fps": 7,
+			"name": "Sing Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-341,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 7,
+			"name": "Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				130
+			],
+			"anim": "singUP",
+			"fps": 7,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-77,
+				140
+			],
+			"anim": "singUP-loop",
+			"fps": 7,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				10
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tricky4",
+	"position": [
+		-390,
+		-100
+	],
+	"healthicon": "tricky4",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-100,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

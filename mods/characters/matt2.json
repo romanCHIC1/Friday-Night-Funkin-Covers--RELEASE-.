@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-5
+			],
+			"anim": "hey",
+			"fps": 20,
+			"name": "miku hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-140,
+				-330
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "matt down note"
+		},
+		{
+			"offsets": [
+				-140,
+				-330
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "matt down note"
+		},
+		{
+			"offsets": [
+				-70,
+				-300
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "idle",
+			"loop": false,
+			"name": "matt idle"
+		},
+		{
+			"offsets": [
+				-71,
+				-300
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "matt idle"
+		},
+		{
+			"offsets": [
+				-50,
+				-333
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "matt left note"
+		},
+		{
+			"offsets": [
+				-51,
+				-340
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "matt left note"
+		},
+		{
+			"offsets": [
+				-60,
+				-314
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "matt right note"
+		},
+		{
+			"offsets": [
+				-50,
+				-320
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "matt right note"
+		},
+		{
+			"offsets": [
+				-116,
+				-279
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singUP",
+			"loop": false,
+			"name": "matt up note"
+		},
+		{
+			"offsets": [
+				-115,
+				-280
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "matt up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matt2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "matt2",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		135,
+		0
+	],
+	"camera_position": [
+		-40,
+		410
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}
