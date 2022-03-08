@@ -3,28 +3,15 @@
 	"difficulties": "easy, normal",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": true,
 	"songs": [
-		[
-			"ballistic",
-			"hex2",
-			[
-				255,
-				80,
-				73
-			]
-		],
 		[
 			"dad battle",
 			"taki",
@@ -38,12 +25,16 @@
 			"milk",
 			"bf_fever",
 			[
-				146,
+				175,
 				0,
-				253
+				180
 			]
 		]
 	],
-	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
 	"weekName": "week4"
 }

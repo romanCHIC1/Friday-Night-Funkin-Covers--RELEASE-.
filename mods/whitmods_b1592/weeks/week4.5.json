@@ -1,0 +1,30 @@
+{
+	"storyName": "my covers 4.5",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ballistic",
+			"hex2",
+			[
+				255,
+				20,
+				0
+			]
+		]
+	],
+	"weekName": "week4.5"
+}
